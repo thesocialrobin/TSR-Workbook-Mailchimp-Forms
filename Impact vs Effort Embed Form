@@ -16,6 +16,7 @@
       #mc_embed_signup #mc-embedded-subscribe {
             background:#2c394e;
             color:#ffffff;
+            border-radius: 3em
             }
 </style>
 <div id="mc_embed_signup">
