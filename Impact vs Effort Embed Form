@@ -11,6 +11,10 @@
             background:#ffffff;
             border: none;
             }
+
+      #mc_embed_signup #mc-embedded-subscribe {
+            color:#2c394e;
+            }
 </style>
 <div id="mc_embed_signup">
     <form action="https://thesocialrobin.us19.list-manage.com/subscribe/post?u=e2839ea6d40d8e2da2e360a6a&amp;id=752d1d190f&amp;f_id=003731e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
