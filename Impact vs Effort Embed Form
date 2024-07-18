@@ -9,6 +9,7 @@
             }
       #mc_embed_signup #mce-EMAIL {
             background:#ffffff;
+            border: none;
             }
 </style>
 <div id="mc_embed_signup">
